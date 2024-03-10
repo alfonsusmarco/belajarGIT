@@ -10,3 +10,11 @@ Daftar tugas / branch
 
 
 Daftar perintah GiT
+
+- git push
+- git pull
+- git commit -m "(pesan commit)"
+- git add .
+- git merge (nama branch)
+- git checkout
+- 
